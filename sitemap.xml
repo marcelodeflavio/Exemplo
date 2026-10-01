@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://marcelodeflavio.github.io/Portifolio/</loc>
-    <priority>1.0</priority>
-  </url>
+
+    <url>
+        <loc>https://marcelodeflavio.github.io/Portifolio/</loc>
+    </url>
+
+    <url>
+        <loc>https://marcelodeflavio.github.io/Portifolio/Contacto.html</loc>
+    </url>
+
+    <url>
+        <loc>https://marcelodeflavio.github.io/Portifolio/Projectos.html</loc>
+    </url>
+
+    <url>
+        <loc>https://marcelodeflavio.github.io/Portifolio/Skills.html</loc>
+    </url>
+
+    <url>
+        <loc>https://marcelodeflavio.github.io/Portifolio/experiencia.html</loc>
+    </url>
+
+    <url>
+        <loc>https://marcelodeflavio.github.io/Portifolio/testemunhos.html</loc>
+    </url>
+
 </urlset>
