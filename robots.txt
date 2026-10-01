@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://marcelodeflavio.github.io/Portifolio/sitemap.xml
+Sitemap: https://marcelo-portfolio-mu.vercel.app/sitemap.xml
